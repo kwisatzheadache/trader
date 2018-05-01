@@ -1,0 +1,10 @@
+Todo:
+
+1. Set up database
+2. JSON parsing in python
+3. Export to database
+4. Database pulling
+5. Ratios
+6. Trading
+7. Automate entire process
+8. Run on server
